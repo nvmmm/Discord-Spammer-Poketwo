@@ -4,7 +4,7 @@ import requests
 channelID = 1025465996200386581
 headers = {
     "authorization":
-    ""MTAzMTUxOTM2NTYzMzQxMzE3MA.GG8m2j.e5_fo_9DyC0rQED3g6oLosHG4lJPFv2XflWD1E""
+    "MTAzMTkwNDQwODU2NjUwNTQ5Mg.GjU8HG.XF5yd1XryulxWIUlnuB0V84xw-kkoad4TVbjKg"
 }
 keep_alive()
 file = open("text.txt", "r")
